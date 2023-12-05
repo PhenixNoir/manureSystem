@@ -3,81 +3,81 @@
     <locale>tr</locale>
 
     <elements>
-        <e k="action_activatePump" v="Activate pump of %s" tag="todo">
+        <e k="action_activatePump" v="%s pompasını çalıştır" tag="todo">
             <!--Todo: add missing translation for action_activatePump--></e>
-        <e k="action_deactivatePump" v="Deactivate pump of %s" tag="todo">
+        <e k="action_deactivatePump" v="%s pompasını durdur" tag="todo">
             <!--Todo: add missing translation for action_deactivatePump--></e>
-        <e k="action_directionIn" v="Change pump direction to: filling" tag="todo">
+        <e k="action_directionIn" v="Pompa yönünü değiştir: doldurma" tag="todo">
             <!--Todo: add missing translation for action_directionIn--></e>
-        <e k="action_directionLeftRight" v="Change pump direction from: left to right" tag="todo">
+        <e k="action_directionLeftRight" v="Pompa yönünü değiştir: soldan sağa" tag="todo">
             <!--Todo: add missing translation for action_directionLeftRight--></e>
-        <e k="action_directionOut" v="Change pump direction to: emptying" tag="todo">
+        <e k="action_directionOut" v="Pompa yönünü değiştir: boşaltma" tag="todo">
             <!--Todo: add missing translation for action_directionOut--></e>
-        <e k="action_directionRightLeft" v="Change pump direction from: right to left" tag="todo">
+        <e k="action_directionRightLeft" v="Pompa yönünü değiştir: sağdan sola" tag="todo">
             <!--Todo: add missing translation for action_directionRightLeft--></e>
-        <e k="action_disableMixer" v="Disable mixer" tag="todo">
+        <e k="action_disableMixer" v="Mikseri kapat" tag="todo">
             <!--Todo: add missing translation for action_disableMixer--></e>
-        <e k="action_enableMixer" v="Enable mixer" tag="todo">
+        <e k="action_enableMixer" v="Mikseri çalıştır" tag="todo">
             <!--Todo: add missing translation for action_enableMixer--></e>
-        <e k="action_storeHose" v="Store hose" tag="todo">
+        <e k="action_storeHose" v="Hortumu katla" tag="todo">
             <!--Todo: add missing translation for action_storeHose--></e>
-        <e k="action_toggleManureFlow" v="%s manure flow" tag="todo">
+        <e k="action_toggleManureFlow" v="%s gübre akışı" tag="todo">
             <!--Todo: add missing translation for action_toggleManureFlow--></e>
-        <e k="action_toggleManureFlowStateClose" v="Close" tag="todo">
+        <e k="action_toggleManureFlowStateClose" v="Kapat" tag="todo">
             <!--Todo: add missing translation for action_toggleManureFlowStateClose--></e>
-        <e k="action_toggleManureFlowStateOpen" v="Open" tag="todo">
+        <e k="action_toggleManureFlowStateOpen" v="Aç" tag="todo">
             <!--Todo: add missing translation for action_toggleManureFlowStateOpen--></e>
-        <e k="configuration_hose" v="Change hose type." tag="todo">
+        <e k="configuration_hose" v="Hortum tipini değiştir." tag="todo">
             <!--Todo: add missing translation for configuration_hose--></e>
-        <e k="configuration_manureSystemFillArm" v="Fill arm" tag="todo">
+        <e k="configuration_manureSystemFillArm" v="Doldurma kolu" tag="todo">
             <!--Todo: add missing translation for configuration_manureSystemFillArm--></e>
-        <e k="configuration_valueExtend" v="Extension" tag="todo">
+        <e k="configuration_valueExtend" v="Uzatma" tag="todo">
             <!--Todo: add missing translation for configuration_valueExtend--></e>
-        <e k="function_hose" v="With a hose you are able to pump a liquid fill type from source to target. If applicable you could extend the hose to reach larger ranges." tag="todo">
+        <e k="function_hose" v="Hortumla, doldurulabilir bir sıvıyı bir yerden diğer bir yere aktarabilirsiniz. Eğer aracınız izin veriyorsa, hortumu uzatarak daha uzak hedeflere erişebilirsiniz." tag="todo">
             <!--Todo: add missing translation for function_hose--></e>
-        <e k="global_configuration_disappearOnEmpty" v="Standard" tag="todo">
+        <e k="global_configuration_disappearOnEmpty" v="Standart" tag="todo">
             <!--Todo: add missing translation for global_configuration_disappearOnEmpty--></e>
-        <e k="global_configuration_refillable" v="Refillable" tag="todo">
+        <e k="global_configuration_refillable" v="Doldurulabilir" tag="todo">
             <!--Todo: add missing translation for global_configuration_refillable--></e>
-        <e k="info_directionIn" v="filling" tag="todo">
+        <e k="info_directionIn" v="Dolduruluyor" tag="todo">
             <!--Todo: add missing translation for info_directionIn--></e>
-        <e k="info_directionOut" v="emptying" tag="todo">
+        <e k="info_directionOut" v="Boşaltılıyor" tag="todo">
             <!--Todo: add missing translation for info_directionOut--></e>
-        <e k="info_title_thickness" v="Thickness" tag="todo">
+        <e k="info_title_thickness" v="Koyuluk" tag="todo">
             <!--Todo: add missing translation for info_title_thickness--></e>
-        <e k="input_MS_ACTIVATE_PUMP" v="Activate/deactivate pump" tag="todo">
+        <e k="input_MS_ACTIVATE_PUMP" v="Pompayı çalıştır/kapat" tag="todo">
             <!--Todo: add missing translation for input_MS_ACTIVATE_PUMP--></e>
-        <e k="input_MS_ATTACH_HOSE" v="Attach hose" tag="todo">
+        <e k="input_MS_ATTACH_HOSE" v="Hortumu bağla" tag="todo">
             <!--Todo: add missing translation for input_MS_ATTACH_HOSE--></e>
-        <e k="input_MS_DETACH_HOSE" v="Detach hose" tag="todo">
+        <e k="input_MS_DETACH_HOSE" v="Hortumu sök" tag="todo">
             <!--Todo: add missing translation for input_MS_DETACH_HOSE--></e>
-        <e k="input_MS_TOGGLE_FLOW" v="Toggle manure flow" tag="todo">
+        <e k="input_MS_TOGGLE_FLOW" v="Gübre akışını başlat" tag="todo">
             <!--Todo: add missing translation for input_MS_TOGGLE_FLOW--></e>
-        <e k="input_MS_TOGGLE_PUMP_DIRECTION" v="Toggle pump direction" tag="todo">
+        <e k="input_MS_TOGGLE_PUMP_DIRECTION" v="Pompalama yönünü değiştir" tag="todo">
             <!--Todo: add missing translation for input_MS_TOGGLE_PUMP_DIRECTION--></e>
-        <e k="shopItem_fertilizerHose" v="Fertilizer hose" tag="todo">
+        <e k="shopItem_fertilizerHose" v="Suni gübre hortumu" tag="todo">
             <!--Todo: add missing translation for shopItem_fertilizerHose--></e>
-        <e k="shopItem_slurryHose" v="Slurry hose" tag="todo">
+        <e k="shopItem_slurryHose" v="Sulu gübre hortumu" tag="todo">
             <!--Todo: add missing translation for shopItem_slurryHose--></e>
-        <e k="typeDesc_hose" v="Hose" tag="todo">
+        <e k="typeDesc_hose" v="Hortum" tag="todo">
             <!--Todo: add missing translation for typeDesc_hose--></e>
-        <e k="warning_checkManureFlow" v="Please check the manure flow for the connector of %s!" tag="todo">
+        <e k="warning_checkManureFlow" v="Lütfen %s için olan gübre akışını kontrol edin!" tag="todo">
             <!--Todo: add missing translation for warning_checkManureFlow--></e>
-        <e k="warning_hoseRangeRestriction" v="The hose range restriction won&#39;t allow you to go any further!" tag="todo">
+        <e k="warning_hoseRangeRestriction" v="Hortum uzunluğu daha uzağa yürümene izin vermiyor!" tag="todo">
             <!--Todo: add missing translation for warning_hoseRangeRestriction--></e>
-        <e k="warning_hoseRangeRestrictionLength" v="You are not super human!" tag="todo">
+        <e k="warning_hoseRangeRestrictionLength" v="Hulk değilsin!" tag="todo">
             <!--Todo: add missing translation for warning_hoseRangeRestrictionLength--></e>
-        <e k="warning_invalidFillType" v="The pump fill type is not supported!" tag="todo">
+        <e k="warning_invalidFillType" v="Bunun aktarımı mümkün değil!" tag="todo">
             <!--Todo: add missing translation for warning_invalidFillType--></e>
-        <e k="warning_limitedPumpDirectionsNotCompatible" v="Limited pump directions of pump source and target are not compatible!" tag="todo">
+        <e k="warning_limitedPumpDirectionsNotCompatible" v="Kaynağın ve hedefin pompa yönlendirmeleri uyumlu değil!" tag="todo">
             <!--Todo: add missing translation for warning_limitedPumpDirectionsNotCompatible--></e>
-        <e k="warning_objectEmpty" v="The pump source or target is empty!" tag="todo">
+        <e k="warning_objectEmpty" v="Pompalama kaynağı veya hedefi boş!" tag="todo">
             <!--Todo: add missing translation for warning_objectEmpty--></e>
-        <e k="warning_objectFull" v="The pump target is full!" tag="todo">
+        <e k="warning_objectFull" v="Pompalama kaynağı veya hedefi dolu!" tag="todo">
             <!--Todo: add missing translation for warning_objectFull--></e>
-        <e k="warning_parkingPlaceTooSmall" v="The parking place is too small for the %sm hose!" tag="todo">
+        <e k="warning_parkingPlaceTooSmall" v="Park yeri %sm hortum için çok ufak!" tag="todo">
             <!--Todo: add missing translation for warning_parkingPlaceTooSmall--></e>
-        <e k="warning_pumpDirectionLimited" v="Pump direction is limited to only: %s" tag="todo">
+        <e k="warning_pumpDirectionLimited" v="Pompalama yönü sadece %s olarak kullanılabilir." tag="todo">
             <!--Todo: add missing translation for warning_pumpDirectionLimited--></e>
     </elements>
 </l10n>
